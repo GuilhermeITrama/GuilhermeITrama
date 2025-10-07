@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY2MndnMnFoaTR4M3lrb21sczh0NG9sZnVxbWRqczV0aHlmcTJzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI0lbe0/giphy.gif" width="200" />
-</div>
-
 # 👋 Olá, eu sou Guilherme Irving Trama!
 ### Desenvolvedor Full-Stack | Analista de Dados & IA
 
